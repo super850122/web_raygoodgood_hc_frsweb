@@ -133,6 +133,10 @@ section hr {
     padding: 10px 0;
 }
 
+#news div{
+    text-align: right;
+}
+
 #news a {
     text-decoration: none;
     color: #252525;
@@ -142,14 +146,14 @@ section hr {
     text-align: center;
 }
 
-#contact p{
-    width: : 80px;
+#contact p {
+    width: 80%;
     margin: 0 auto;
     text-align: center;
     line-height: 2.5;
 }
 
-#cotact form{
+#contact form{
     width: 80%;
     margin: 0 auto;
 }
@@ -191,5 +195,5 @@ footer{
     text-align: center;
     background-color: #252525;
     color: white;
-    
+
 }
